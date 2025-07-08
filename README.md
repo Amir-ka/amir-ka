@@ -1,4 +1,4 @@
-# Hi there, I'm Amirhossein 👋
+# Hi there, I'm Amir 👋
 
 I'm an AI Researcher and a graduate student at the University of New Haven, where my work is centered on the fascinating challenges of Multi-Agent Reinforcement Learning (MARL). While my academic roots are in Electrical Engineering, my passion and focus have pivoted to creating intelligent, cooperative AI systems. I am currently a researcher at the **SAIL Lab**, where I explore the frontiers of robust and effective communication between AI agents.
 
@@ -16,21 +16,21 @@ My current research is dedicated to enhancing the robustness of communication in
 *Here are some of the technologies I work with:*
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"> </a>
-  <a href="https://jax.readthedocs.io/en/latest/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/JAX-F7931E?style=for-the-badge&logo=google-jax&logoColor=white" alt="JAX"> </a>
-  <a href="https://docs.ray.io/en/latest/rllib/index.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Ray%20RLlib-0073E6?style=for-the-badge&logo=ray&logoColor=white" alt="Ray RLlib"> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> </a>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/JAX-F7931E?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/Ray%20RLlib-0073E6?style=for-the-badge&logo=ray&logoColor=white" alt="Ray RLlib" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="margin-right: 4px;"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 4px;"/>
 </p>
 
 ---
@@ -42,19 +42,18 @@ My current research is dedicated to enhancing the robustness of communication in
 ---
 
 ### 📫 Let’s Connect
-*Thanks for visiting my profile! Feel free to reach out or connect with me.*
-
-<p align="left">
-  <a href="https://amir-ka.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Amir-ka/Amir-ka.github.io/main/android-chrome-512x512.png" alt="Amirhossein Karimi Logo" width="50" style="vertical-align:middle;"/>
+Thanks for visiting my profile! Feel free to reach out or connect with me.
+<p align="center">
+  <a href="https://amir-ka.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Amir-ka/Amir-ka.github.io/main/android-chrome-512x512.png" alt="Amirhossein Karimi Logo" width="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amirhosseinkarimi24/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="vertical-align:middle;"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amirhosseinkarimi24/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:akari9@unh.newhaven.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align:middle;"/>
+  &nbsp;&nbsp;
+  <a href="mailto:akari9@unh.newhaven.edu" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
