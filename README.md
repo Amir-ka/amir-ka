@@ -16,21 +16,21 @@ My current research is dedicated to enhancing the robustness of communication in
 *Here are some of the technologies I work with:*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/JAX-F7931E?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/Ray%20RLlib-0073E6?style=for-the-badge&logo=ray&logoColor=white" alt="Ray RLlib" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right: 4px;"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 4px;"/> </a>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 4px;"/>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" style="margin-right: 4px;"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" style="margin-right: 4px;"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="margin-right: 4px;"/> </a>
+  <a href="https://jax.readthedocs.io/en/latest/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/JAX-F7931E?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" style="margin-right: 4px;"/> </a>
+  <a href="https://docs.ray.io/en/latest/rllib/index.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Ray%20RLlib-0073E6?style=for-the-badge&logo=ray&logoColor=white" alt="Ray RLlib" style="margin-right: 4px;"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right: 4px;"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 4px;"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 4px;"/> </a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right: px;"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" style="margin-right: 4px;"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="margin-right: 4px;"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 4px;"/>
+  <a href="https://wordpress.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="margin-right: 4px;"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 4px;"/> </a>
 </p>
 
 ---
