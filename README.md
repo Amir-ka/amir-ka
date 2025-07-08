@@ -44,16 +44,17 @@ My current research is dedicated to enhancing the robustness of communication in
 ### 📫 Let’s Connect
 Thanks for visiting my profile! Feel free to reach out or connect with me.
 <p align="center">
-  <a href="https://amir-ka.github.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Amir-ka/Amir-ka.github.io/main/android-chrome-512x512.png" alt="Amirhossein Karimi Logo" width="50"/>
+  <a href="https://amir-ka.github.io/" target="_blank">
+    <img src="https://github.com/Amir-ka/amir-ka/blob/main/Website.png" alt="Amirhossein Karimi Logo" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amirhosseinkarimi24/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/amirhosseinkarimi24/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:akari9@unh.newhaven.edu" style="text-decoration: none;">
+  <a href="mailto:akari9@unh.newhaven.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
