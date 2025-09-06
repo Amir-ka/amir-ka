@@ -1,14 +1,13 @@
 # Hi there, I'm Amir 👋
 
-I'm an AI Researcher and a graduate student at the University of New Haven, where my work is centered on the fascinating challenges of Multi-Agent Reinforcement Learning (MARL). While my academic roots are in Electrical Engineering, my passion and focus have pivoted to creating intelligent, cooperative AI systems. I am currently a researcher at the **SAIL Lab**, where I explore the frontiers of robust and effective communication between AI agents.
-
+I'm an AI Researcher and a graduate student at the University of New Haven, where my work is centered on the fascinating challenges of Multi-Agent Reinforcement Learning (MARL). While my academic roots are in Electrical Engineering, my passion and focus have pivoted to creating intelligent, cooperative AI systems. I am currently a researcher at the **SAIL Lab**, where I develop frameworks to make multi-agent AI systems robust, secure, and resilient against strategic deception.
 ---
 
 ### 🧠 My Research Focus
-My current research is dedicated to enhancing the robustness of communication in cooperative Multi-Agent Reinforcement Learning. I am developing novel mechanisms to ensure agents can maintain effective coordination, even when faced with adversarial attacks or misaligned communication channels.
+My research focuses on the security and trustworthiness of Multi-Agent Reinforcement Learning (MARL) systems. I build formal frameworks to characterize, detect, and mitigate deceptive behaviors, from simple communication jamming to complex, learned strategies.
 
--   **Primary Research:** **Communicative Power Regularization (CPR)** - A mechanism to help cooperative agents learn to disregard unreliable or adversarial communication, leading to more resilient and effective teamwork.
--   **Interests:** Multi-Agent Systems, Reinforcement Learning, Robustness in AI, and Deep Learning.
+-   **Lastest Publication:** **Communicative Power Regularization (CPR)** - A mechanism to help cooperative agents learn to disregard unreliable or adversarial communication, leading to more resilient and effective teamwork.
+-   **Interests:** Multi-Agent Systems, AI Security, Game Theory, Reinforcement Learning, AI Alignment, and Trustworthy AI.
 
 ---
 
