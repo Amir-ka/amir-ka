@@ -1,6 +1,7 @@
 # Hi there, I'm Amir 👋
 
-I'm an AI Researcher and a graduate student at the University of New Haven, where my work is centered on the fascinating challenges of Multi-Agent Reinforcement Learning (MARL). While my academic roots are in Electrical Engineering, my passion and focus have pivoted to creating intelligent, cooperative AI systems. I am currently a researcher at the **SAIL Lab**, where I develop frameworks to make multi-agent AI systems robust, secure, and resilient against strategic deception.
+**I'm an AI Researcher and a graduate student at the University of New Haven, where my work is centered on the fascinating challenges of Multi-Agent Reinforcement Learning (MARL). While my academic roots are in Electrical Engineering, my passion and focus have pivoted to creating intelligent, cooperative AI systems. I am currently a researcher at the **SAIL Lab**, where I develop frameworks to make multi-agent AI systems robust, secure, and resilient against strategic deception.
+**
 ---
 
 ### 🧠 My Research Focus
