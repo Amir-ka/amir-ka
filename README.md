@@ -7,7 +7,7 @@ I'm an AI Researcher and a graduate student at the University of New Haven, wher
 ### 🧠 My Research Focus
 My research focuses on the security and trustworthiness of Multi-Agent Reinforcement Learning (MARL) systems. I build formal frameworks to characterize, detect, and mitigate deceptive behaviors, from simple communication jamming to complex, learned strategies.
 
--   **Lastest Publication:** **Communicative Power Regularization (CPR)** - A mechanism to help cooperative agents learn to disregard unreliable or adversarial communication, leading to more resilient and effective teamwork.
+-   **Latest Publication:** **Communicative Power Regularization (CPR)** - A mechanism to help cooperative agents learn to disregard unreliable or adversarial communication, leading to more resilient and effective teamwork.
 -   **Interests:** Multi-Agent Systems, AI Security, Game Theory, Reinforcement Learning, AI Alignment, and Trustworthy AI.
 
 ---
