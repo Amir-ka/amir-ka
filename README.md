@@ -9,7 +9,7 @@ I work at the intersection of multi-agent reinforcement learning and control. Th
 
 -   **Current:** Mean-field and population-level methods for multi-agent RL, with an emphasis on safety constraints that hold with high probability rather than merely in expectation.
 -   **Previously:** Security and trustworthiness of MARL; formal frameworks to characterize, detect, and mitigate deceptive behavior, from communication jamming to learned adversarial strategies.
--   **Publication:** **Communicative Power Regularization (CPR)** — a mechanism that helps cooperative agents learn to disregard unreliable or adversarial communication, yielding more resilient teamwork.
+-   **Publication:** **Communicative Power Regularization (CPR)** - a mechanism that helps cooperative agents learn to disregard unreliable or adversarial communication, yielding more resilient teamwork.
 -   **Interests:** Multi-Agent Systems, Reinforcement Learning, Control, Safe & Constrained RL, AI Alignment, Trustworthy AI.
 
 ---
