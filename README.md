@@ -50,7 +50,7 @@ Thanks for visiting my profile! Feel free to reach out or connect with me.
     <img src="https://github.com/Amir-ka/amir-ka/blob/main/Website.png" alt="Amirhossein Karimi Logo" width="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amirhosseinkarimi24/" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-ka/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;
